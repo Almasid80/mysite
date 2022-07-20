@@ -1,0 +1,149 @@
+/*********************************TAG SELECTORS***********************************/
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+}
+
+a {
+    color: #11999E;
+}
+
+h1 {
+    color: #66BFBF;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+}
+
+h2 {
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 6px;
+    width: 3%;
+    margin: 100px auto 100px auto;
+}
+
+
+/*********************************CLASS SELECTORS***********************************/
+.mein-bild {
+    width: 15%;
+}
+
+.top-container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container {
+    position: relative;
+    padding-top: 100px;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding-top: 50px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    padding-bottom: 30px;
+}
+
+.code-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.chilli-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.copyrighting {
+    color: #EAF6F6;
+    margin-bottom: 0px;
+    padding-bottom: 50px;
+    padding-top: 40px;
+}
+
+.footer-link {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+    text-decoration: none;
+    margin-right: 40px;
+}
+
+.footer-link:hover {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+    text-decoration: underline;
+    margin-right: 40px;
+}
+
+.btn {
+    background-color: #66BFBF;
+    color: #EAF6F6;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    border-radius: 10px;
+    padding: 10px 15px 10px 15px;
+}
+
+.btn:hover {
+    background-color: #11999E;
+    color: #EAF6F6;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    border-radius: 10px;
+    padding: 10px 15px 10px 15px;
+}
+
+.contact-me {
+    padding-bottom: 100px;
+}
+
+.contact-me p {
+    margin: 50px auto 100px auto;
+}
+
+
+
+/*********************************ID SELECTORS***********************************/
